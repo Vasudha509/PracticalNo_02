@@ -24,6 +24,7 @@ public static int division(int num1, int num2) {
 public static int modulus(int num) {
 	return num % 10;
 }
+
 public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
     System.out.print("Enter first number : ");
