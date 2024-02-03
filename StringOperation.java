@@ -4,16 +4,16 @@ import java.lang.String;
 class StringOperation {
   public static void main(String[] args) {
   // "Java_Programming" = char 
-    String str = new String("Java_Programming\n");
+    String str = new String("Java_Programming");
     
-    System.out.println("Given String : "+ str);
+    System.out.println("Given String : " + str);
     // operation of string class on string
     
     // Returns the length of the string.
-    System.out.println("\npublic int length()      \n>> "+ str.length());
+    System.out.println("\npublic int length()      \n>> " + str.length());
     
     // Returns true if, and only if, length() is 0.
-    System.out.println("\npublic boolean isEmpty()  \n>> "+ str.isEmpty());
+    System.out.println("\npublic boolean isEmpty()  \n>> " + str.isEmpty());
     
     // Returns the char value at the specified index. An index ranges from 0 to length() - 1.
     // Throws: IndexOutOfBoundsException 
