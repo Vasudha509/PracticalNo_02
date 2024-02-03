@@ -3,14 +3,17 @@
 import java.util.Scanner;
 
 class ArrayOperation {
+// method to perform first element of an array
     int firstElement (int[] array) {
         return array[0];
     }
     
+    // method to perform second element of an array
     int secondElement (int[] array) {
         return array[1];
     }
     
+    // method to perform addition of elements of an array.
     int arrayEleAddition (int[] array) {
         int sum = 0;
         
@@ -20,6 +23,7 @@ class ArrayOperation {
         for (int i = 0; i < array.length; i++) {
             sum += array[i];
         }
+        
         return sum;
     }
     
