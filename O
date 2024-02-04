@@ -1,0 +1,22 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Changes to be committed:
+#	deleted:    1_Practical.txt
+#	deleted:    2_Practical.txt
+#	deleted:    3_Practical.txt
+#	modified:   HelloProgram.java
+#	deleted:    Practical.java
+#	deleted:    names.txt
+#
+# Untracked files:
+#	.1_Practical.txt.swp
+#	ArithemeticOperations.class
+#	CalculatorProgram.class
+#	CalculatorProgram.java
+#	HelloProgram.class
+#	StringOperation.class
+#	txtFile/
+#

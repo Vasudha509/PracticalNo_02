@@ -1,0 +1,36 @@
+Pr no 02: 8 task in calculator add mul div sub mod ... atleast 8 task are their to perform in it.
+// assign task to github official from personal create issue and assign it and commit it. create a different breanches to creating a new task. 
+
+// Practical No. 03 
+/*
+
+javap java.lang.String   		>> to explore the class 
+
+
+jshell: 1) visit standard documentation of jshell provided by oracle. commands of jshell. write few thing related to jshell.  how it work, how to use, why to use
+        2) javap also same as above use terminal also         javap
+        3) explore string class of java in details - java.lang.String class using jshell. 
+        
+Commands of jshell
+jshell> String s = "Vasudha";
+jshell> s
+Vasudha
+jshell> s. tab (important)
+to exit from jshell use command as "/exit"
+s.getClass() to get the class name of the object
+explore the string class methods 
+
+Q: how many ways to create a string in java 
+=> as much type of public constructor are their. + 1
+constructor overloading
+
+
+ working style of interpreter
+ R Read
+ E Evaluation
+ P Print
+ L Loop again start -
+ 
+ uninstall software using ubuntu .
+ remove
+*/
